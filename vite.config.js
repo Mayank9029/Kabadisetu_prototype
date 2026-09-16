@@ -6,7 +6,7 @@ import { VitePWA } from "vite-plugin-pwa";
 // (https://<user>.github.io/<repo>/), set base to "/<repo>/".
 // If you deploy to a *user/organization* site, a custom domain, or
 // Vercel/Netlify (root domain), leave it as "/".
-const BASE_PATH = "/kabadisetu/";
+const BASE_PATH = "/Kabadisetu_prototype/";
 
 export default defineConfig({
   base: BASE_PATH,
